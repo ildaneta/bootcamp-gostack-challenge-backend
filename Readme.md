@@ -45,6 +45,6 @@ In this challenge, the proposal for a solution was to make the automated tests p
 ## :pencil: Author
 
 - <a href="https://ildaneta.dev" target="_blank">Blog</a>
-- <a href="https://www.linkedin.com/in/ilda-silva-neta/" target="_blank">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/ildaneta/" target="_blank">LinkedIn</a>
 
 Made with love :heart_decoration: by **Ilda Neta.**
